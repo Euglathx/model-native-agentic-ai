@@ -218,7 +218,7 @@ models that grow intelligence through experience.
 |   BigBird  |  [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)  |  2020-05  | [GitHub](https://github.com/google-research/bigbird) ![Stars](https://img.shields.io/github/stars/google-research/bigbird) |
 |   Performer  |  [Rethinking Attention with Performers](https://arxiv.org/abs/2009.14794)  |  2020-06  | [GitHub](https://github.com/lucidrains/performer-pytorch) ![Stars](https://img.shields.io/github/stars/lucidrains/performer-pytorch) |
 |   FlashAttention  |  [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://openreview.net/forum?id=H4DqfPSibmx)  |  2022-11  | [GitHub](https://github.com/Dao-AILab/flash-attention) ![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention) |
-|   LightningAttention  |  [Efficient Language Modeling with Lightning Attention](https://arxiv.org/abs/2405.17381)  |  2023-07  | [GitHub](https://github.com/OpenNLPLab/lightning-attention) ![Stars](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention) |
+|   LightningAttention  |  [Efficient Language Modeling with Lightning Attention](https://arxiv.org/abs/2307.14995)  |  2023-07  | [GitHub](https://github.com/OpenNLPLab/lightning-attention) ![Stars](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention) |
 |   LightningAttention-2  |  [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths](https://arxiv.org/abs/2401.04658)  |  2024-01  | [GitHub](https://github.com/OpenNLPLab/lightning-attention) ![Stars](https://img.shields.io/github/stars/OpenNLPLab/lightning-attention) |
 |   SKVQ  |  [SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models](https://arxiv.org/abs/2405.06219)  |  2024-05  | [GitHub](https://github.com/cat538/SKVQ) ![Stars](https://img.shields.io/github/stars/cat538/SKVQ) |
 |   MoBA  |  [MoBA](https://github.com/MoonshotAI/MoBA)  |  2025-02  | [GitHub](https://github.com/MoonshotAI/MoBA) ![Stars](https://img.shields.io/github/stars/MoonshotAI/MoBA) |
@@ -234,7 +234,7 @@ models that grow intelligence through experience.
 |   HiAgent  |  [HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Models](https://arxiv.org/abs/2408.09559)  |  2024-08  | [GitHub](https://github.com/HiAgent2024/HiAgent) ![Stars](https://img.shields.io/github/stars/HiAgent2024/HiAgent) |
 |   AWM  |  [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)  |  2024-10  | [GitHub](https://github.com/zorazrw/agent-workflow-memory) ![Stars](https://img.shields.io/github/stars/zorazrw/agent-workflow-memory) |
 |   Memary  |  [Memary](https://github.com/kingjulio8238/Memary)  |  2024-10  | [GitHub](https://github.com/kingjulio8238/Memary) ![Stars](https://img.shields.io/github/stars/kingjulio8238/Memary) |
-|   COLA  |  [COLA: A Multi-agent Framework for Generating Large-Scale UI Automation Datasets on Windows](https://arxiv.org/abs/2503.09263)  |  2025-03  | - |
+|   COLA  |  [COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation](https://arxiv.org/abs/2503.09263)  |  2025-03  | - |
 |   ZEP  |  [Zep: The AI Memory Server](https://docs.getzep.com/)  |  2025-01  | [GitHub](https://github.com/getzep/zep) ![Stars](https://img.shields.io/github/stars/getzep/zep) |
 |   Mem0  |  [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)  |  2025-04  | [GitHub](https://github.com/mem0ai/mem0) ![Stars](https://img.shields.io/github/stars/mem0ai/mem0) |
 
@@ -242,21 +242,28 @@ models that grow intelligence through experience.
 
 |  Short Name  |   Paper   |   Date  |  Code/Project Link |
 |  :---------: |   :---:   |   :--:  |  :---------------: |
-|   G-MEM  |  [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://www.researchgate.net/publication/392531451)  |  2024-12  | [GitHub](https://github.com/bingreeky/GMemory) ![Stars](https://img.shields.io/github/stars/bingreeky/GMemory) |
+|   Scissorhands  |  [Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/abs/2305.17118)  |  2023-05  | - |
+|   H2O  |  [H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models](https://arxiv.org/abs/2306.14048)  |  2023-06  | [GitHub](https://github.com/FMInference/H2O) ![Stars](https://img.shields.io/github/FMInference/H2O) |
+|   G-Memory  |  [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398)  |  2024-12  | [GitHub](https://github.com/bingreeky/GMemory) ![Stars](https://img.shields.io/github/stars/bingreeky/GMemory) |
 |   A-Mem  |  [A-MEM: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110)  |  2025-02  | [GitHub](https://github.com/agiresearch/A-mem) ![Stars](https://img.shields.io/github/stars/agiresearch/A-mem) |
 |   Intrinsic Memory Agents  |  [Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](https://arxiv.org/abs/2508.08997)  |  2025-08  | - |
 |   EMU  |  [Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2403.01112)  |  2024-03  | [GitHub](https://github.com/HyunghoNa/EMU) ![Stars](https://img.shields.io/github/stars/HyunghoNa/EMU) |
-|   Optimus-1  |  [Optimus-1: On-device Data of Task Execution and Decision Making for LLM-based Agents](https://arxiv.org/html/2408.03615v2)  |  2025-06  | [GitHub](https://github.com/JiuTian-VL/Optimus-1) ![Stars](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1) |
+|   Optimus-1  |  [Optimus-1: On-device Data of Task Execution and Decision Making for LLM-based Agents](https://arxiv.org/html/2408.03615v2)  |  2024-08  | [GitHub](https://github.com/JiuTian-VL/Optimus-1) ![Stars](https://img.shields.io/github/stars/JiuTian-VL/Optimus-1) |
 |   Nemori  |  [Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science](https://arxiv.org/abs/2508.03341)  |  2025-08  | - |
-|   RAP  |  [RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents](https://github.com/PanasonicConnect/rap)  |  2024-02  | [GitHub](https://github.com/PanasonicConnect/rap) ![Stars](https://img.shields.io/github/stars/PanasonicConnect/rap) |
+|   RAP  |  [RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents](https://arxiv.org/abs/2402.03610)  |  2024-02  | [GitHub](https://github.com/PanasonicConnect/rap) ![Stars](https://img.shields.io/github/stars/PanasonicConnect/rap) |
 |   TWM  |  [Temporal Working Memory: Query-Guided Segment Refinement for Enhanced Multimodal Understanding](https://arxiv.org/abs/2502.06020)  |  2025-02  | [GitHub](https://github.com/xid32/NAACL_2025_TWM) ![Stars](https://img.shields.io/github/stars/xid32/NAACL_2025_TWM) |
 |   RCR-Router  |  [RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory](https://www.arxiv.org/pdf/2508.04903)  |  2025-08  | - |
 |   Learn-to-Memorize  |  [Learn to Memorize: Optimizing LLM-based Agents with Adaptive Memory Framework](https://arxiv.org/abs/2508.16629)  |  2025-08  | [GitHub](https://github.com/nuster1128/learn_to_memorize) ![Stars](https://img.shields.io/github/stars/nuster1128/learn_to_memorize) |
 |   Self-RAG  |  [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)  |  2023-10  | [GitHub](https://github.com/AkariAsai/self-rag) ![Stars](https://img.shields.io/github/stars/AkariAsai/self-rag) |
-|   TiM  |  [Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory](https://paperreading.club/page?id=194091)  |  2023-11  | - |
+|   TiM  |  [Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory](https://arxiv.org/abs/2311.08719)  |  2023-11  | - |
 |   HippoRAG  |  [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)  |  2024-05  | [GitHub](https://github.com/OSU-NLP-Group/HippoRAG) ![Stars](https://img.shields.io/github/stars/OSU-NLP-Group/HippoRAG) |
-|   MemAgent  |  [MemAgent: Reshaping Long-Context LLM with Multi-Conversation Memory and Reinforcement Learning](https://www.alphaxiv.org/overview/2507.02259v1)  |  2025-07  | [GitHub](https://github.com/BytedTsinghua-SIA/MemAgent) ![Stars](https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent) |
+|   M+  |  [M+: Extending MemoryLLM with Scalable Long-Term Memory](https://arxiv.org/abs/2502.00592)  |  2025-02  | - |
+|   SeCom  |  [SeCom: On Memory Construction and Retrieval for Personalized Conversational Agents](https://www.microsoft.com/en-us/research/publication/secom-on-memory-construction-and-retrieval-for-personalized-conversational-agents/)  |  2025-04  | - |
+|   MEM1  |  [MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents](https://arxiv.org/abs/2506.15841)  |  2025-06  | [GitHub](https://github.com/MIT-MI/MEM1) ![Stars](https://img.shields.io/github/stars/MIT-MI/MEM1) |
+|   MemAgent  |  [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)  |  2025-07  | [GitHub](https://github.com/BytedTsinghua-SIA/MemAgent) ![Stars](https://img.shields.io/github/stars/BytedTsinghua-SIA/MemAgent) |
+|   H-MEM  |  [H-MEM: Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents](https://arxiv.org/abs/2507.22925)  |  2025-07  | - |
 |   Memory-R1  |  [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828)  |  2025-08  | - |
+|   CARE  |  [Improving Context Fidelity via Native Retrieval-Augmented Reasoning](https://arxiv.org/abs/2509.13683)  |  2025-09  | [GitHub](https://github.com/FoundationAgents/CARE) ![Stars](https://img.shields.io/github/stars/FoundationAgents/CARE) |
 
 ### 5.4&nbsp;&nbsp;Long-Term Memory
 
@@ -269,7 +276,7 @@ models that grow intelligence through experience.
 |   MemGPT  |  [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560)  |  2023-10  | [GitHub](https://github.com/letta-ai/letta) ![Stars](https://img.shields.io/github/stars/letta-ai/letta) |
 |   GraphRAG  |  [A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130)  |  2024-04  | [GitHub](https://github.com/microsoft/graphrag) ![Stars](https://img.shields.io/github/stars/microsoft/graphrag) |
 |   LMLM  |  [Pre-training Large Memory Language Models with Internal and External Knowledge](https://arxiv.org/abs/2505.15962)  |  2025-05  | - |
-|   K-Adapter  |  [K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://aclanthology.org/2021.findings-acl.121/)  |  2021  | [GitHub](https://github.com/microsoft/K-Adapter) ![Stars](https://img.shields.io/github/stars/microsoft/K-Adapter) |
+|   K-Adapter  |  [K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters](https://aclanthology.org/2021.findings-acl.121/)  |  2021-08  | [GitHub](https://github.com/microsoft/K-Adapter) ![Stars](https://img.shields.io/github/stars/microsoft/K-Adapter) |
 |   Memorizing Transformers  |  [Memorizing Transformers](https://arxiv.org/abs/2203.08913)  |  2022-03  | [GitHub](https://github.com/lucidrains/memorizing-transformers-pytorch) ![Stars](https://img.shields.io/github/stars/lucidrains/memorizing-transformers-pytorch) |
 |   S-LoRA  |  [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)  |  2023-11  | - |
 |   MixLoRA  |  [MixLoRA: Enhancing LLM Fine-Tuning with LoRA-based Mixture of Experts](https://arxiv.org/abs/2404.15159)  |  2024-04  | [GitHub](https://github.com/PLUM-Lab/MixLoRA) ![Stars](https://img.shields.io/github/stars/PLUM-Lab/MixLoRA) |
